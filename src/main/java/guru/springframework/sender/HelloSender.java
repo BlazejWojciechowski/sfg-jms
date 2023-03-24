@@ -15,10 +15,6 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
 import java.util.UUID;
-
-/**
- * Created by jt on 2019-07-17.
- */
 @RequiredArgsConstructor
 @Component
 public class HelloSender {
